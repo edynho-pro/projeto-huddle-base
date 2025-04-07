@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   color: rgb(0, 0, 0);
-  background-image: url(./src/images/bg-desktop.svg);
+  background-image: url(../images/bg-desktop.svg);
   background-color: blueviolet
  
 }
@@ -104,6 +104,8 @@ footer a {
   color: #000;
   display: flex;
   justify-content: flex-end;
-  padding: 20px;
+  padding:   20px;
+
+
 
 }
